@@ -6,4 +6,8 @@ use (
 	./varByValue
 	./namedReturnValue
 	./explicitReturns
+	./struct
+	./nestedStructs
+	./embeddedStructs
+	./structMethods
 )
